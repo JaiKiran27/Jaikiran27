@@ -2,13 +2,13 @@
 <h3 align="center">Passionate Data Analyst and Anime Enthusiast from India 😄</h3>
 <img align="right" alt="Kakashi Hatake" width="400" src="https://th.bing.com/th/id/OIP.puWhUdwFqhlKZYzUWtHBGgHaK9?rs=1&pid=ImgDetMain">
 
-- 🌱 Currently immersed in the world of **Machine Learning** <img src="https://i.imgur.com/YaZk5qG.gif" alt="Anime GIF" width="30">
+- 🌱 Currently immersed in the world of **Machine Learning**. Excited to learn new jutsu in the data world! 🔍📊
+  
+- 💬 Let's chat about **Data Analysis, Tableau, and Anime recommendations!** Feel free to drop some anime suggestions! 🎉📺
 
-- 💬 Let's chat about **Data Analysis, Tableau, and Anime recommendations!** <img src="https://i.imgur.com/YaZk5qG.gif" alt="Anime GIF" width="30">
+- 📫 Reach me at **jaikirandbz@gmail.com**. Whether it's about data or discussing the latest anime episodes, I'm here! 📧🤓
 
-- 📫 Reach me at **jaikirandbz@gmail.com** <img src="https://i.imgur.com/YaZk5qG.gif" alt="Anime GIF" width="30">
-
-- ⚡ Fun fact: **I'm a proud Anime and Manhwa lover 🌸** <img src="https://i.imgur.com/YaZk5qG.gif" alt="Anime GIF" width="30">
+- ⚡ Fun fact: **I'm a proud Anime and Manhwa lover 🌸**. From Hokage duties to unraveling data mysteries, I love a good adventure! 🗡️📈
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
