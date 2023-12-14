@@ -20,21 +20,21 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://simpleicons.org/icons/mysql.svg" alt="mysql" height="30" width="30"/>
+    <img src="https://img.shields.io/badge/-MySQL-blue" alt="mysql"/>
   </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://simpleicons.org/icons/pandas.svg" alt="pandas" height="30" width="30"/>
+    <img src="https://img.shields.io/badge/-Pandas-green" alt="pandas"/>
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://simpleicons.org/icons/python.svg" alt="python" height="30" width="30"/>
+    <img src="https://img.shields.io/badge/-Python-yellow" alt="python"/>
   </a>
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" height="30" width="30"/>
+    <img src="https://img.shields.io/badge/-Scikit--Learn-orange" alt="scikit_learn"/>
   </a>
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://simpleicons.org/icons/seaborn.svg" alt="seaborn" height="30" width="30"/>
+    <img src="https://img.shields.io/badge/-Seaborn-pink" alt="seaborn"/>
   </a>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://simpleicons.org/icons/tensorflow.svg" alt="tensorflow" height="30" width="30"/>
+    <img src="https://img.shields.io/badge/-TensorFlow-purple" alt="tensorflow"/>
   </a>
 </p>
