@@ -20,21 +20,21 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-MySQL-blue" alt="mysql"/>
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="30" width="30"/>
   </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-Pandas-green" alt="pandas"/>
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/pandas/pandas-original.svg" alt="pandas" height="30" width="30"/>
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-Python-yellow" alt="python"/>
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" height="30" width="30"/>
   </a>
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-Scikit--Learn-orange" alt="scikit_learn"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" height="30" width="30"/>
   </a>
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-Seaborn-pink" alt="seaborn"/>
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" height="30" width="30"/>
   </a>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-TensorFlow-purple" alt="tensorflow"/>
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" height="30" width="30"/>
   </a>
 </p>
