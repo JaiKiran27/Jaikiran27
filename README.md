@@ -30,7 +30,7 @@
     <img src="https://www.vectorlogo.zone/logos/pandas/pandas-icon.svg" alt="pandas" height="30" width="30"/>
   </a>
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/scikit-learn/scikit-learn-icon.svg" alt="scikit_learn" height="30" width="30"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" height="30" width="30"/>
   </a>
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" height="30" width="30"/>
