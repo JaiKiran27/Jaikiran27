@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/jaikirandbz" target="_blank">
-    <img align="center" src="https://simpleicons.org/icons/linkedin.svg" alt="jaikirandbz" height="30" width="30" />
+    <img align="center" src="https://simpleicons.org/icons/linkedin.svg" alt="jaikirandbz LinkedIn" height="30" width="40" />
   </a>
 </p>
 
