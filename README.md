@@ -6,9 +6,9 @@
   
 - 💬 Let's chat about **Data Analysis, Tableau, and Anime recommendations!** Feel free to drop some anime suggestions! 🎉📺
 
-- 📫 Reach me at **jaikirandbz@gmail.com**. Whether it's about data or discussing the latest anime episodes, I'm here! 📧🤓
+- 📫 Reach me at **jaikirandbz@gmail.com**. Whether it's about data or discussing the latest anime episodes, I'm here! 📧😉
 
-- ⚡ Fun fact: **I'm a proud Anime and Manhwa lover 🌸**. From Hokage duties to unraveling data mysteries, I love a good adventure! 🗡️📈
+- ⚡ Fun fact: **I'm a proud Anime and Manhwa lover 🤩**. From Hokage duties to unraveling data mysteries, I love a good adventure! 🗡️📈
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
