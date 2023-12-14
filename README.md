@@ -20,13 +20,13 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" height="30" width="30"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Python_logo_and_wordmark.svg" alt="python" height="30" width="30"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="30" width="30"/>
+    <img src="https://upload.wikimedia.org/wikipedia/en/6/62/MySQL.svg" alt="mysql" height="30" width="30"/>
   </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/pandas/pandas-original.svg" alt="pandas" height="30" width="30"/>
+    <img src="https://pandas.pydata.org/static/img/pandas.svg" alt="pandas" height="30" width="30"/>
   </a>
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" height="30" width="30"/>
