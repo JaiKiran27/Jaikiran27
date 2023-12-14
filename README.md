@@ -1,6 +1,6 @@
 <h1 align="center">Hi there! 👋 I'm Pampana Jai Kiran</h1>
 <h3 align="center">Passionate Data Analyst and Anime Enthusiast from India 😄</h3>
-<img align="right" alt="Anime Coding" width="400" src="https://your-anime-image-url.jpg">
+<img align="right" alt="Kakashi Hatake" width="400" src="https://th.bing.com/th/id/OIP.puWhUdwFqhlKZYzUWtHBGgHaK9?rs=1&pid=ImgDetMain">
 
 - 🌱 Currently immersed in the world of **Machine Learning**
 
