@@ -1,14 +1,14 @@
-<h1 align="center">Hi 👋, I'm Pampana Jai Kiran</h1>
-<h3 align="center">A passionate Data Analyst from India 😁</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<h1 align="center">Hi there! 👋 I'm Pampana Jai Kiran</h1>
+<h3 align="center">Passionate Data Analyst and Anime Enthusiast from India 😄</h3>
+<img align="right" alt="Anime Coding" width="400" src="https://your-anime-image-url.jpg">
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 Currently immersed in the world of **Machine Learning**
 
-- 💬 Ask me about **Data Analysis related and Tableau.**
+- 💬 Let's chat about **Data Analysis, Tableau, and Anime recommendations!**
 
-- 📫 How to reach me **jaikirandbz@gmail.com**
+- 📫 Reach me at **jaikirandbz@gmail.com**
 
-- ⚡ Fun fact **I Enjoy Watching Anime and Love reading Manhwa**
+- ⚡ Fun fact: **I'm a proud Anime and Manhwa lover 🌸**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
