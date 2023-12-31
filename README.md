@@ -51,5 +51,5 @@
 </p>
 
 <p align="center">
-  <img src="https://beebom.com/wp-content/uploads/2022/12/featured-1.jpg?w=730&h=464&crop=1&quality=75" alt="Banner">
+  <img src="https://www.teahub.io/photos/full/179-1797704_demon-slayer-wallpaper-4k.jpg" alt="Banner">
 </p>
