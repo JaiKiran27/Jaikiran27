@@ -51,5 +51,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capturly.com/blog/wp-content/uploads/2018/02/Data-Website-Analytics.gif" alt="Banner">
+  <img src="https://i.pinimg.com/originals/1b/8c/a5/1b8ca58005077be89725f94da36010a0.jpg" alt="Banner">
 </p>
