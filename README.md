@@ -51,5 +51,5 @@
 </p>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/1b/8c/a5/1b8ca58005077be89725f94da36010a0.jpg" alt="Banner">
+  <img src="https://beebom.com/wp-content/uploads/2022/12/featured-1.jpg?w=730&h=464&crop=1&quality=75" alt="Banner">
 </p>
