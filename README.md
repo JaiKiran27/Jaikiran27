@@ -36,7 +36,7 @@
     <img src="https://www.kindpng.com/picc/m/159-1595924_python-logo-clipart-easy-pandas-python-logo-hd.png" alt="pandas" height="30" width="30"/>
   </a>
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://th.bing.com/th/id/OIP.EL53grMWpvtHsCJaemBt_QAAAA?rs=1&pid=ImgDetMain" alt="scikit_learn" height="30" width="30"/>
+    <img src="[https://th.bing.com/th/id/OIP.EL53grMWpvtHsCJaemBt_QAAAA?rs=1&pid=ImgDetMain](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fen%2Fpng-eclpz&psig=AOvVaw2OagvTsj5EDHWF6qd-QSzk&ust=1724329199140000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCKCU6PyIhogDFQAAAAAdAAAAABAI)" alt="scikit_learn" height="30" width="30"/>
   </a>
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://th.bing.com/th/id/OIP.k9s_go_-RVs_1ms2W52K5gAAAA?w=285&h=258&rs=1&pid=ImgDetMain" alt="seaborn" height="30" width="30"/>
