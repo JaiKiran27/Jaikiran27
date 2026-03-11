@@ -1,14 +1,16 @@
 <h1 align="center">Hi 👋, I'm Pampana Jai Kiran</h1>
-<h3 align="center">GenAI & LLM Applications Engineer | Full-Stack Developer</h3>
+
+<p align="center">
+GenAI & LLM Applications Engineer | Full-Stack Developer
+</p>
 
 <p align="center">
 Building real-world AI systems using Large Language Models, Python, and React.
 </p>
 
----
-
-<img src="https://i.pinimg.com/originals/ab/8e/30/ab8e300aad19162dc27993c22adf267b.gif" width="600">
-
+<p align="center">
+<img src="https://i.pinimg.com/originals/ab/8e/30/ab8e300aad19162dc27993c22adf267b.gif" width="500"/>
+</p>
 
 ## 👨‍💻 About Me
 
