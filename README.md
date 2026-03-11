@@ -1,55 +1,222 @@
-<h1 align="center">Hi there! 👋 I'm Pampana Jai Kiran</h1>
-<h3 align="center">Passionate Data Analyst and Anime Enthusiast from India 😄</h3>
-<img align="right" alt="Kakashi Hatake" width="400" src="https://th.bing.com/th/id/OIP.puWhUdwFqhlKZYzUWtHBGgHaK9?rs=1&pid=ImgDetMain">
-
-- 🌱 Currently immersed in the world of **Machine Learning**. Excited to learn new jutsu in the data world! 🔍📊
-  
-- 💬 Let's chat about **Data Analysis, Tableau, and Anime recommendations!** Feel free to drop some anime suggestions! 🎉📺
-
-- 📫 Reach me at **jaikirandbz@gmail.com**. Whether it's about data or discussing the latest anime episodes, I'm here! 📧😉
-
-- ⚡ Fun fact: **I'm a proud Anime and Manhwa lover 🤩**. From Hokage duties to unraveling data mysteries, I love a good adventure! 🗡️📈
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/jaikirandbz" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="jaikirandbz LinkedIn" height="30" width="40" />
-  </a>
-</p>
-
-### Languages and Tools:
-
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://pluspng.com/img-png/python-logo-png-open-2000.png" alt="python" height="30" width="30"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://th.bing.com/th/id/R.ebf90fd1be02bf7c8c6ef1b73dd5c000?rik=ZfVX38P9ilZNlA&riu=http%3a%2f%2fwww.logotypes101.com%2flogos%2f768%2f257CBC3E180789EEB3B468BEC3215483%2fMySQL.png&ehk=heYg4gWopeo6Rgqvn9036b0EUAfJdQZSCYkvdGmdNjM%3d&risl=&pid=ImgRaw&r=0" alt="mysql" height="30" width="30"/>
-  </a>
- <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-    <img src="https://th.bing.com/th/id/OIP.w-qTcyA4TSToAE1FZlj5nwHaEK?rs=1&pid=ImgDetMain" alt="tableau" height="30" width="30"/>
-  </a>
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://1000logos.net/wp-content/uploads/2022/08/Microsoft-Power-BI-Logo.jpg" alt="powerbi" height="30" width="30"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.kindpng.com/picc/m/159-1595924_python-logo-clipart-easy-pandas-python-logo-hd.png" alt="pandas" height="30" width="30"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://e7.pngegg.com/pngimages/905/45/png-clipart-scikit-learn-python-scikit-logo-brand-learning-text-computer-thumbnail.png" alt="scikit_learn" height="30" width="30"/>
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://th.bing.com/th/id/OIP.k9s_go_-RVs_1ms2W52K5gAAAA?w=285&h=258&rs=1&pid=ImgDetMain" alt="seaborn" height="30" width="30"/>
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://th.bing.com/th/id/OIP.7FGfxfnvLhCv4zAPYTn90wHaFS?rs=1&pid=ImgDetMain" alt="tensorflow" height="30" width="30"/>
-  </a>
-  <a>
-    <a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank" rel="noreferrer">
-    <img src="https://th.bing.com/th/id/OIP.ibQPA-rdk8i4DrME_fOp4gHaE8?rs=1&pid=ImgDetMain" alt="excel" height="30" width="30"/>
-  </a>
-</p>
+<h1 align="center">Hi 👋, I'm Pampana Jai Kiran</h1>
+<h3 align="center">GenAI & LLM Applications Engineer | Full-Stack Developer</h3>
 
 <p align="center">
-  <img src="https://wallpapercave.com/wp/wp5628841.jpg" alt="Banner">
+Building real-world AI systems using Large Language Models, Python, and React.
 </p>
+
+---
+
+<img align="right" alt="coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+## 👨‍💻 About Me
+
+* 💼 **Junior Software Engineer – GenAI Platforms**
+* 🏢 Working at **Verizon**
+* 🧠 Building **LLM-powered enterprise tools**
+* ⚙️ Developing **production AI systems from POC → Production**
+* 🚀 Passionate about **AI Engineering, Automation, and System Design**
+* 🌍 Based in **India**
+
+---
+
+## 🚀 Current Focus
+
+* GenAI Applications
+* LLM Prompt Engineering
+* LLM Orchestration Systems
+* AI Observability
+* Full-Stack AI Platforms
+
+---
+
+## 🧠 Tech Stack
+
+### 👨‍💻 Programming Languages
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
+</p>
+
+---
+
+### ⚙️ Backend Development
+
+<p>
+<img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+</p>
+
+* FastAPI
+* REST APIs
+* API Design & Testing
+
+---
+
+### 🎨 Frontend Development
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
+</p>
+
+* React.js
+* Modern UI for AI applications
+
+---
+
+### 🤖 AI / GenAI
+
+* Large Language Models (LLMs)
+* Prompt Engineering
+* LLM Orchestration
+* TF-IDF
+* Cosine Similarity
+
+---
+
+### 🗄️ Databases
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
+</p>
+
+* PostgreSQL
+* MySQL
+* Supabase
+
+---
+
+### 🛠️ Tools
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/postman.svg" width="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" width="40"/>
+</p>
+
+* GitHub
+* GitLab
+* Postman
+* Jira
+* Linux
+
+---
+
+# 🏗️ Key Work
+
+## Autonomous Admin – GenAI Platform
+
+Designed and implemented a **production-grade GenAI platform**.
+
+**Tech Stack**
+
+React
+FastAPI
+PostgreSQL
+Jenkins
+Linux
+
+Key Contributions:
+
+* Built **full-stack GenAI application**
+* Implemented **structured prompting & intent routing**
+* Designed **multi-LLM safety validation**
+* Allowed only **approved read-only operations**
+
+📈 **Impact**
+
+* Reduced **manual Level-1 operational work by ~15–20%**
+* Improved operational response efficiency
+
+---
+
+## NSGPT – Enterprise GenAI Chatbot
+
+Enterprise AI chatbot used internally.
+
+Contributions:
+
+* Built **production-ready React interface**
+* Developed backend **API integrations**
+* Implemented **intent routing logic**
+
+🏆 Result:
+
+Improved chatbot usability and system interaction.
+
+---
+
+## LLM Observability Summarization Tool
+
+AI system designed to interpret operational data.
+
+Summarizes:
+
+* Monitoring alerts
+* Incident reports
+* Patch updates
+* System logs
+
+Transforms technical data into **human-readable summaries for engineers**.
+
+---
+
+# 🏆 Recognition
+
+🏅 **Customer Experience Award**
+
+For impactful contributions to the **NSGPT GenAI chatbot**
+
+🏅 **Leadership Award**
+
+For ownership and delivery of the **Autonomous Admin GenAI platform**
+
+---
+
+# 🎓 Education
+
+**Bachelor of Computer Applications – Data Science**
+Gayatri Vidya Parishad College, Visakhapatnam
+CGPA: **7.44**
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📫 Connect With Me
+
+<p align="left">
+
+<a href="mailto:jai.kiran.2706@gmail.com">
+<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40"/>
+</a>
+
+<a href="https://linkedin.com/in/jaikirandbz">
+<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40"/>
+</a>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="40"/>
+</a>
+
+</p>
+
+---
+
+⭐ *Interested in building scalable AI systems and real-world GenAI applications.*
