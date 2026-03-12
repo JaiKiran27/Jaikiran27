@@ -9,7 +9,7 @@ Building real-world AI systems using Large Language Models, Python, and React.
 </p>
 
 <p align="center">
-<img src="https://i.pinimg.com/originals/ab/8e/30/ab8e300aad19162dc27993c22adf267b.gif" width="500"/>
+<img align="right" alt="coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </p>
 
 ## 👨‍💻 About Me
