@@ -214,7 +214,7 @@ CGPA: **7.44**
 <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40"/>
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/JaiKiran27">
 <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="40"/>
 </a>
 
