@@ -15,7 +15,7 @@ Building real-world AI systems using Large Language Models, Python, and React.
 ## 👨‍💻 About Me
 
 * 💼 **Junior Software Engineer – GenAI Platforms**
-* 🏢 Working at **Verizon**
+* 🏢 Ex **Verizon**
 * 🧠 Building **LLM-powered enterprise tools**
 * ⚙️ Developing **production AI systems from POC → Production**
 * 🚀 Passionate about **AI Engineering, Automation, and System Design**
