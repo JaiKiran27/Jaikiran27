@@ -5,11 +5,11 @@ Software Engineer | SRE & Application Support | Backend & Full-Stack Development
 </p>
 
 <p align="center">
-Interested in backend systems, operational automation, monitoring, and AI-powered applications.
+Focused on backend systems, operational automation, monitoring, and scalable application development.
 </p>
 
 <p align="center">
-<img align="right" alt="coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="280"/>
 </p>
 
 ---
