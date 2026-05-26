@@ -1,190 +1,126 @@
-<h1 align="center">Hi 👋, I'm Pampana Jai Kiran</h1>
+<h1 align="center">Hi 👋, I'm Jai Kiran</h1>
 
 <p align="center">
-GenAI & LLM Applications Engineer | Full-Stack Developer
+Software Engineer | SRE & Application Support 
 </p>
 
 <p align="center">
-Building real-world AI systems using Large Language Models, Python, and React.
+Interested in backend systems, operational automation, monitoring, and AI-powered applications.
 </p>
 
 <p align="center">
 <img align="right" alt="coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </p>
 
+---
+
 ## 👨‍💻 About Me
 
-* 💼 **Junior Software Engineer – GenAI Platforms**
-* 🏢 Ex **Verizon**
-* 🧠 Building **LLM-powered enterprise tools**
-* ⚙️ Developing **production AI systems from POC → Production**
-* 🚀 Passionate about **AI Engineering, Automation, and System Design**
-* 🌍 Based in **India**
+- 💼 Software Engineer with experience in production support and operational environments
+- ⚙️ Worked on monitoring, incident triage, troubleshooting, and API validation
+- 🌱 Interested in backend engineering, automation, and AI applications
+- 🚀 Exploring GenAI, cloud technologies, and scalable systems
+- 🌍 Based in India
 
 ---
 
 ## 🚀 Current Focus
 
-* GenAI Applications
-* LLM Prompt Engineering
-* LLM Orchestration Systems
-* AI Observability
-* Full-Stack AI Platforms
+- SRE & Application Support
+- Backend APIs
+- Automation Workflows
+- Monitoring & Alerting Systems
+- AI/GenAI Applications
 
 ---
 
 ## 🧠 Tech Stack
 
-### 👨‍💻 Programming Languages
+### Languages
 
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
 </p>
 
+- Python
+- Java
+- JavaScript
+- SQL
+
 ---
 
-### ⚙️ Backend Development
+### Backend
 
 <p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
 </p>
 
-* FastAPI
-* REST APIs
-* API Design & Testing
+- Spring Boot
+- FastAPI
+- REST APIs
 
 ---
 
-### 🎨 Frontend Development
+### Frontend
 
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
 </p>
 
-* React.js
-* Modern UI for AI applications
+- React.js
 
 ---
 
-### 🤖 AI / GenAI
-
-* Large Language Models (LLMs)
-* Prompt Engineering
-* LLM Orchestration
-* TF-IDF
-* Cosine Similarity
-
----
-
-### 🗄️ Databases
+### Databases
 
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
 </p>
 
-* PostgreSQL
-* MySQL
-* Supabase
+- PostgreSQL
+- MySQL
 
 ---
 
-### 🛠️ Tools
+### Tools & Platforms
 
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" width="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
 </p>
 
-* GitHub
-* GitLab
-* Postman
-* Jira
-* Linux
+- Git & GitHub
+- GitLab
+- Jenkins
+- Jira
+- Postman
+- Linux
+- AWS
+- Catchpoint
 
 ---
 
-# 🏗️ Key Work
+# 🏆 Achievements
 
-## Autonomous Admin – GenAI Platform
-
-Designed and implemented a **production-grade GenAI platform**.
-
-**Tech Stack**
-
-React
-FastAPI
-PostgreSQL
-Jenkins
-Linux
-
-Key Contributions:
-
-* Built **full-stack GenAI application**
-* Implemented **structured prompting & intent routing**
-* Designed **multi-LLM safety validation**
-* Allowed only **approved read-only operations**
-
-📈 **Impact**
-
-* Reduced **manual Level-1 operational work by ~15–20%**
-* Improved operational response efficiency
-
----
-
-## NSGPT – Enterprise GenAI Chatbot
-
-Enterprise AI chatbot used internally.
-
-Contributions:
-
-* Built **production-ready React interface**
-* Developed backend **API integrations**
-* Implemented **intent routing logic**
-
-🏆 Result:
-
-Improved chatbot usability and system interaction.
-
----
-
-## LLM Observability Summarization Tool
-
-AI system designed to interpret operational data.
-
-Summarizes:
-
-* Monitoring alerts
-* Incident reports
-* Patch updates
-* System logs
-
-Transforms technical data into **human-readable summaries for engineers**.
-
----
-
-# 🏆 Recognition
-
-🏅 **Customer Experience Award**
-
-For impactful contributions to the **NSGPT GenAI chatbot**
-
-🏅 **Leadership Award**
-
-For ownership and delivery of the **Autonomous Admin GenAI platform**
+- 🏅 Customer Experience Award
+- 🏅 Leadership Award
 
 ---
 
 # 🎓 Education
 
-**Bachelor of Computer Applications – Data Science**
+Bachelor of Computer Applications (Data Science)  
 Gayatri Vidya Parishad College, Visakhapatnam
-CGPA: **7.44**
 
 ---
 
@@ -221,5 +157,3 @@ CGPA: **7.44**
 </p>
 
 ---
-
-⭐ *Interested in building scalable AI systems and real-world GenAI applications.*
