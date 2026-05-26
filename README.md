@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jai Kiran</h1>
 
 <p align="center">
-Software Engineer | SRE & Application Support 
+Software Engineer | SRE & Application Support | Backend & Full-Stack Development
 </p>
 
 <p align="center">
@@ -16,20 +16,20 @@ Interested in backend systems, operational automation, monitoring, and AI-powere
 
 ## 👨‍💻 About Me
 
-- 💼 Software Engineer with experience in production support and operational environments
-- ⚙️ Worked on monitoring, incident triage, troubleshooting, and API validation
-- 🌱 Interested in backend engineering, automation, and AI applications
-- 🚀 Exploring GenAI, cloud technologies, and scalable systems
+- 💼 Software Engineer with experience in production support, operational monitoring, and backend systems
+- ⚙️ Worked on incident triage, troubleshooting, API validation, log analysis, and alert monitoring workflows
+- 🛠️ Interested in building reliable systems, automation tools, and AI-powered applications
+- 🚀 Exploring GenAI, cloud platforms, backend architecture, and scalable application design
 - 🌍 Based in India
 
 ---
 
 ## 🚀 Current Focus
 
-- SRE & Application Support
-- Backend APIs
-- Automation Workflows
-- Monitoring & Alerting Systems
+- Production Support & Monitoring
+- Backend API Development
+- Operational Automation
+- Incident Management Workflows
 - AI/GenAI Applications
 
 ---
@@ -132,7 +132,7 @@ Gayatri Vidya Parishad College, Visakhapatnam
 <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40"/>
 </a>
 
-<a href="https://linkedin.com/in/jaikirandbz">
+<a href="https://www.linkedin.com/in/jaikiran27/">
 <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40"/>
 </a>
 
