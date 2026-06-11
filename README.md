@@ -31,6 +31,7 @@ Focused on backend systems, operational automation, monitoring, and scalable app
 - Operational Automation
 - Incident Management Workflows
 - AI/GenAI Applications
+- Cloud & DevOps Learning
 
 ---
 
@@ -88,6 +89,26 @@ Focused on backend systems, operational automation, monitoring, and scalable app
 
 ---
 
+### Cloud & DevOps
+
+<p>
+<img src="https://img.icons8.com/color/48/amazon-web-services.png" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="40"/>
+</p>
+
+- AWS (Learning)
+- Docker
+- Linux
+- Git & GitLab
+- Jenkins
+- CI/CD Pipelines
+- Cloud Monitoring
+
+---
+
 ### Tools & Platforms
 
 <p>
@@ -95,18 +116,27 @@ Focused on backend systems, operational automation, monitoring, and scalable app
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" width="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
 </p>
 
-- Git & GitHub
+- GitHub
 - GitLab
-- Jenkins
 - Jira
 - Postman
-- Linux
-- AWS
 - Catchpoint
+
+---
+
+### Production Support & Operations
+
+- Incident Management
+- Alert Monitoring
+- Log Analysis
+- API Validation
+- Ticket Resolution
+- Escalation Handling
+- Operational Monitoring
+- Troubleshooting
+- SLA Management
 
 ---
 
@@ -119,7 +149,7 @@ Focused on backend systems, operational automation, monitoring, and scalable app
 
 # 🎓 Education
 
-Bachelor of Computer Applications (Data Science)  
+**Bachelor of Computer Applications (Data Science)**  
 Gayatri Vidya Parishad College, Visakhapatnam
 
 ---
