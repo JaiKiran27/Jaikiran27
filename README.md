@@ -149,11 +149,13 @@ Focused on backend systems, operational automation, monitoring, and scalable app
 
 # 🎓 Education
 
+**Master of Computer Applications**  
+Andhra University (AU), Visakhapatnam
+
 **Bachelor of Computer Applications (Data Science)**  
 Gayatri Vidya Parishad College, Visakhapatnam
 
-**Master of Computer Applications**  
-Andhra University (AU), Visakhapatnam
+
 
 ---
 
